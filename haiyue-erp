@@ -1,0 +1,7 @@
+cd C:\Users\WIN10\Documents\Codex\2026-10-17\x
+git init
+git add .
+git commit -m "初始海跃 ERP 原型"
+git branch -M main
+git remote add origin https://github.com/你的账号/haiyue-erp.git
+git push -u origin main
